@@ -72,17 +72,13 @@ body, html {
 }
 /* Info Boxes */
 .info-boxes {
-  display: flex;
   justify-content: center;
-  padding: 60px 100px;
-  background: white;
   flex-wrap: wrap;
 }
 
 .box {
   flex: 1 1 30% ;
   max-width: 400px;
-    gap: -20px;
   padding: 20px 20px;    
   text-align: left;
   justify-content: space-evenly;
@@ -106,7 +102,6 @@ body, html {
   }
   .info-boxes{
       width: 100%;
-  gap: -50px;
   height: auto;
   }
  .line {
@@ -365,4 +360,3 @@ body, html {
 .credits strong {
   color: #000;
 }
-
