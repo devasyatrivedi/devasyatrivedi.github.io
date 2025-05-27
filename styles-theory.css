@@ -51,14 +51,7 @@ body, html {
     display: inline-block;
     color: white;
   }
-  .line {
-        width: 300px;
-        height: 0;
-        border: 1px solid rgb(224, 224, 224);
-        border-radius: 5px;
-        margin-top: 40px;
-        margin-bottom: 40px;
-    }
+ 
 }
 .hero {
   height: 75vh;
@@ -101,12 +94,10 @@ body, html {
   text-align: left;
   justify-content: space-evenly;
   color: #666;
-  border-left: 2px solid #eee;
 }
 @media (max-width: 900px) {
   .box{
-  flex: 1 1 74% ;
-  border-top: 2px solid #ebeaea;
+  flex: 1 1 74% 
   border-left: 0px;
   text-align: center;
   width: 100%;
@@ -116,7 +107,14 @@ body, html {
   gap: -50px;
   height: auto;
   }
-  
+   .line {
+        width: 300px;
+        height: 0;
+        border: 1px solid rgb(224, 224, 224);
+        border-radius: 5px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
   
 }
 
