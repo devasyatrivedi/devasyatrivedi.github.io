@@ -27,12 +27,22 @@ body, html {
   text-decoration: none;
   font-size: 14px;
 }
-@media (max-width: 680px){
+.navpaneltoggle{
+  display: none;
+}
+@media (max-width: 880px){
   .header{
     padding: 20px 20px ;
     text-align: center;
     display: flex;
     flex-wrap: wrap;
+  }
+   .nav a{
+    display: none;
+  }
+  .navpaneltoggle{
+    display: inline-block;
+    color: white;
   }
 }
 .hero {
