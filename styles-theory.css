@@ -38,6 +38,7 @@ body, html {
 .hero {
   height: 75vh;
   background-size: cover;
+   background-image: url(banner.jpg);
   background-attachment: fixed;
   background-position: center;
   display: flex;
