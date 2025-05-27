@@ -72,7 +72,7 @@ body, html {
 .info-boxes {
   display: flex;
   justify-content: center;
-  padding: 60px 30px;
+  padding: 60px 100px;
   background: white;
   flex-wrap: wrap;
   border-top: 1px solid #ddd;
