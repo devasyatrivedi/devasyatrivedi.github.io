@@ -30,6 +30,13 @@ body, html {
 .navpaneltoggle{
   display: none;
 }
+.line{
+    width: 0;
+    height: 200px;
+    border: 1px solid rgb(224, 224, 224);
+    border-radius: 5px;
+    position: relative;
+}
 @media (max-width: 880px){
   .header{
     padding: 20px 20px ;
@@ -44,6 +51,14 @@ body, html {
     display: inline-block;
     color: white;
   }
+  .line {
+        width: 300px;
+        height: 0;
+        border: 1px solid rgb(224, 224, 224);
+        border-radius: 5px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
 }
 .hero {
   height: 75vh;
