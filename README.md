@@ -14,9 +14,7 @@ Here are some of the projects hosted through this site:
 
 ### 🔸 [Project 02](https://devasyatrivedi.github.io/project02/)
 *A sample project description:*
-> A web-based tool that displays weather data using an external API. Users can search cities and get real-time weather updates.
-
-*(Replace this with a real description of Project 02)*
+>web sites.
 
 ---
 
