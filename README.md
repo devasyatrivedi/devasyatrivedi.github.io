@@ -28,7 +28,7 @@ Click on any project link above to explore it. All projects are hosted on GitHub
 
 You can find me here:
 - GitHub: [@devasyatrivedi](https://github.com/devasyatrivedi)
-- Email: *your.email@example.com* (replace with your actual email if desired)
+- Email: devasyastrivedi@hotmail.com
 
 ---
 
