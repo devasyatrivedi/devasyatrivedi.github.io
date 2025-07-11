@@ -34,7 +34,7 @@ You can find me here:
 
 ## 📌 Note
 
-This repository hosts static content (HTML/CSS/JS) using GitHub Pages. For source code, visit the individual project repositories via my GitHub profile.
+This repository hosts static content (HTML/CSS/JS/PHP) using GitHub Pages. For source code, visit the individual project repositories via my GitHub profile.
 
 ---
 
