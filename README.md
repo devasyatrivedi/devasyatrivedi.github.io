@@ -1,10 +1,10 @@
-# 🚀 Welcome to My GitHub Pages Portfolio
+<img width="1613" height="653" alt="image" src="https://github.com/user-attachments/assets/892332f4-1bf0-476a-81a4-03ba7773c836" /># 🚀 Welcome to My GitHub Pages Portfolio
 
 This is my personal GitHub Pages site where I showcase my coding projects and experiments. It's a central hub for exploring the work I'm doing, ranging from small utilities to full-fledged applications.
 
 ## 🔗 Live Site
 
-Visit the live portfolio: [https://devasyatrivedi.github.io](https://devasyatrivedi.github.io/protfolio/#)
+Visit the live portfolio: [https://devasyatrivedi.github.io](https://devasyatrivedi.github.io/portfolio/)
 
 ---
 
