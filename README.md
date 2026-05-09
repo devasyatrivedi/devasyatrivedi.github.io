@@ -4,7 +4,7 @@ This is my personal GitHub Pages site where I showcase my coding projects and ex
 
 ## 🔗 Live Site
 
-Visit the live portfolio: [https://devasyatrivedi.github.io](https://devasyatrivedi.github.io)
+Visit the live portfolio: [https://devasyatrivedi.github.io](https://devasyatrivedi.github.io/protfolio/#)
 
 ---
 
